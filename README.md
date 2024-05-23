@@ -1,2 +1,2 @@
-# 001GettingStart-TS
-Getting Start TypeScript
+# 0001GettingStartTypeScript
+Getting Start Type Script
